@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Task 1 : Stemming Porter Bahasa Indonesia Dari Sebuah Lirik Lagu</title>
+	<title>Task 1 : Stemming Porter & Nazief Bahasa Indonesia Dari File PDF</title>
 
 	<!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -72,7 +72,7 @@
 <section id="home-section">
    <div class="home-inner row">
       <div class="col-md-6">
-         <h1 id="plugin-name" class="font-title">Sistem Temu Kembali Informasi</h1>
+         <h1 id="plugin-name" class="font-title">Adham Hayukalbu</h1>
          <p id="plugin-description">Kumpulan Tugas / Demo dari Mata Kuliah Sistem Temu Kembali Informasi <hr> List of Tasks / Demo by Lesson Class Information Retrieval System</p>
       </div>
    </div>
@@ -88,7 +88,7 @@
       	 	?>
       	 </div>
          <div class="col-md-12">
-         <center><h2>Result Algoritma Stemming Porter Bahasa Indonesia : </h2></center><hr/>
+         <center><h2>Result Algoritma Stemming Porter & Nazief Bahasa Indonesia : </h2></center><hr/>
 		  <table class="table table-hover">
 		    <thead>
 		      <tr>
